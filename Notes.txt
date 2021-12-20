@@ -1,0 +1,3 @@
+pom.xml: Porject Object Model, configuration, build profiles and dependencies
+src/main/resources: JSON properties, data and server properties
+RestSpringApplication.java: 
